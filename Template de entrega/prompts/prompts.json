@@ -1,0 +1,71 @@
+{
+  "prompts": {
+    "comun": [
+      {
+        "role": "system",
+        "content": "Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación."
+      },
+      {
+        "role": "user",
+        "content": "{}"
+      }
+    ],
+    "civil_mercantil": [
+      {
+        "role": "system",
+        "content": "Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación."
+      },
+      {
+        "role": "user",
+        "content": "{}"
+      }
+    ],
+    "penal": [
+      {
+        "role": "system",
+        "content": "Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación."
+      },
+      {
+        "role": "user",
+        "content": "{}"
+      }
+    ],
+    "administrativa": [
+      {
+        "role": "system",
+        "content": "Elije la respuesta a la pregunta formulada de entre las tres opciones posibles. Devuelve dos elementos separados por un acento circunflejo, cuyo primer elemento sea el id de la respuesta y el segundo una justificación."
+      },
+      {
+        "role": "user",
+        "content": "{}"
+      }
+    ],
+    "laboral": [
+      {
+        "role": "system",
+        "content": "You are a helpful math calculator. You will receive a question with three different options. You must choose the right answer among the options. The output must be a tuple of two elements separated with a circumflex accent. The first element of the tuple must be letter A if the right answer is the first one, B if it is the second one or C if it is the third one. The second element of the tuple must be a brief justification about the right answer."
+      },
+      {
+        "role": "user",
+        "content": "Resultado de 1+1? \na)2\nb)3\nc)4"
+      },
+      {
+        "role": "assistant",
+        "content": "A, un elemento más un elemento son dos elementos"
+      },
+      {
+        "role": "user",
+        "content": "Resultado de 2+3? \na)4\nb)5\nc)6"
+      },
+      {
+        "role": "assistant",
+        "content": "B, dos elementos más tres elementos son cinco elementos"
+      },
+      {
+        "role": "user",
+        "content": "{}"
+      }
+    ]
+  }
+}
+

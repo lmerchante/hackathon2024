@@ -1,0 +1,105 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+	    "categoria":"comun",
+            "pregunta": "\u00bfCu\u00e1nto es 2 + 2?",
+            "opciones": [
+                {
+                    "opcion": "A",
+                    "texto": "3"
+                },
+                {
+                    "opcion": "B",
+                    "texto": "4"
+                },
+                {
+                    "opcion": "C",
+                    "texto": "5"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 2,
+	    "categoria":"laboral",
+            "pregunta": "\u00bfCu\u00e1nto es 5 - 3?",
+            "opciones": [
+                {
+                    "opcion": "A",
+                    "texto": "2"
+                },
+                {
+                    "opcion": "B",
+                    "texto": "3"
+                },
+                {
+                    "opcion": "C",
+                    "texto": "4"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+	{
+            "id": 3,
+            "categoria": "civil_mercantil",
+            "pregunta": "\u00bfCu\u00e1nto  es 7 * 1?",
+            "opciones": [
+                {
+                    "opcion": "A",
+                    "texto": "6"
+                },
+                {
+                    "opcion": "B",
+                    "texto": "7"
+                },
+                {
+                    "opcion": "C",
+                    "texto": "8"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 4,
+            "categoria": "penal",
+            "pregunta": "\u00bfCu\u00e1nto  es 10 / 2?",
+            "opciones": [
+                {
+                    "opcion": "A",
+                    "texto": "4"
+                },
+                {
+                    "opcion": "B",
+                    "texto": "5"
+                },
+                {
+                    "opcion": "C",
+                    "texto": "6"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 5,
+            "categoria": "administrativa",
+            "pregunta": "\u00bfCu\u00e1nto  es el resultado de 3 + 6?",
+            "opciones": [
+                {
+                    "opcion": "A",
+                    "texto": "8"
+                },
+                {
+                    "opcion": "B",
+                    "texto": "9"
+                },
+                {
+                    "opcion": "C",
+                    "texto": "10"
+                }
+            ],
+            "respuesta_correcta": "B"
+        }
+
+          ]
+}
